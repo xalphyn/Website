@@ -1,0 +1,139 @@
+{
+  "site_name": "XALPHYN",
+  "site_url": "",
+  "tagline": "My existence is my silent era.",
+  "artist_label": "Emerging music artist · Founder of SynthBeatsWaves · Creator of Programming Hub",
+  "sbw_site_url": "",
+  "ngl_url": "https://ngl.link/xalphyn1",
+  "medium_profile_url": "https://medium.com/@xalphyn",
+  "socials": [
+    {
+      "name": "YouTube",
+      "handle": "@XALPHYN",
+      "url": "https://www.youtube.com/@xalphyn",
+      "icon": "youtube",
+      "schema": true,
+      "review": "explicit"
+    },
+    {
+      "name": "Instagram",
+      "handle": "@XALPHYN",
+      "url": "https://www.instagram.com/xalphyn",
+      "icon": "instagram",
+      "schema": true,
+      "review": "explicit"
+    },
+    {
+      "name": "Threads",
+      "handle": "@XALPHYN",
+      "url": "https://www.threads.net/@xalphyn",
+      "icon": "threads",
+      "schema": false,
+      "review": "inferred"
+    },
+    {
+      "name": "Facebook",
+      "handle": "@XALPHYN",
+      "url": "https://www.facebook.com/xalphyn",
+      "icon": "facebook",
+      "schema": false,
+      "review": "inferred"
+    },
+    {
+      "name": "X",
+      "handle": "@XALPHYN",
+      "url": "https://x.com/xalphyn",
+      "icon": "x",
+      "schema": false,
+      "review": "inferred"
+    },
+    {
+      "name": "SoundCloud",
+      "handle": "@XALPHYN",
+      "url": "https://soundcloud.com/xalphyn",
+      "icon": "soundcloud",
+      "schema": false,
+      "review": "inferred"
+    },
+    {
+      "name": "Audiomack",
+      "handle": "@XALPHYN",
+      "url": "https://audiomack.com/xalphyn",
+      "icon": "audiomack",
+      "schema": false,
+      "review": "inferred"
+    },
+    {
+      "name": "Reddit",
+      "handle": "u/XALPHYN",
+      "url": "https://www.reddit.com/user/xalphyn/",
+      "icon": "reddit",
+      "schema": false,
+      "review": "inferred"
+    },
+    {
+      "name": "Bluesky",
+      "handle": "@xalphyn.bsky.social",
+      "url": "https://bsky.app/profile/xalphyn.bsky.social",
+      "icon": "bluesky",
+      "schema": false,
+      "review": "inferred"
+    },
+    {
+      "name": "Substack",
+      "handle": "@XALPHYN",
+      "url": "https://xalphyn.substack.com/",
+      "icon": "substack",
+      "schema": false,
+      "review": "inferred"
+    },
+    {
+      "name": "Medium",
+      "handle": "@XALPHYN",
+      "url": "https://medium.com/@xalphyn",
+      "icon": "medium",
+      "schema": false,
+      "review": "inferred"
+    },
+    {
+      "name": "GitHub",
+      "handle": "@XALPHYN",
+      "url": "https://github.com/xalphyn",
+      "icon": "github",
+      "schema": false,
+      "review": "inferred"
+    },
+    {
+      "name": "Spotify",
+      "handle": "XALPHYN · Spotify user profile",
+      "url": "https://open.spotify.com/user/31eetw2e45szyglnxccxzgtrd5aa",
+      "icon": "spotify",
+      "schema": true,
+      "review": "explicit owner-provided Spotify user profile URL"
+    }
+  ],
+  "social_url_review_note": "Spotify user profile, YouTube and Instagram URLs were explicitly supplied by the owner; other handle-pattern links are owner-review candidates. A Spotify user profile is not an artist release page.",
+  "pfp_asset": "xalphyn-pfp.webp",
+  "social_preview_asset": "social-preview.png",
+  "favicon_asset": "favicon.ico",
+  "search_engine_setup_note": "Configure site_url or XALPHYN_SITE_URL, or build on Netlify (URL env) to emit canonical URLs and sitemap. No dummy canonical URL is published.",
+  "communities": [
+    {
+      "name": "SynthBeatsWaves",
+      "role": "Music community of artists providing non-copyright tracks",
+      "discord_invite": "https://discord.gg/56uYDjzjAF",
+      "status": "Growing music community sharing creator-friendly tracks; dedicated website coming soon"
+    },
+    {
+      "name": "Programming Hub",
+      "role": "Discord community connecting programmers and developers",
+      "started": "2026-08-04",
+      "created": "2026-07-28",
+      "discord_invite": "https://discord.gg/5tRSK3bShB",
+      "status": "Discord-only developer community; server under maintenance"
+    }
+  ],
+  "medium_articles": [],
+  "medium_article_note": "Published Medium story URLs have not been independently retrieved. Add owner-verified story permalinks to medium_articles to display direct cards.",
+  "google_site_verification": ""
+}
