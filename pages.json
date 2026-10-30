@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "",
+    "src": "home.html",
+    "title": "XALPHYN — Official Website | Music Artist & Founder",
+    "description": "The official website of XALPHYN, an emerging music artist and founder of SynthBeatsWaves, a community of artists sharing non-copyright music tracks."
+  },
+  {
+    "slug": "profile",
+    "src": "profile.html",
+    "title": "XALPHYN — Official Profile & Social Links",
+    "description": "Official profile card for XALPHYN, an emerging music artist and founder of SynthBeatsWaves and Programming Hub. My existence is my silent era."
+  },
+  {
+    "slug": "about",
+    "src": "about.html",
+    "title": "About XALPHYN — Artist, Music History & Communities",
+    "description": "Meet XALPHYN: the music journey from Neon Dreams and Rise of Tron, the growth of SynthBeatsWaves, and the Programming Hub Discord community."
+  },
+  {
+    "slug": "communities",
+    "src": "communities.html",
+    "title": "XALPHYN Communities — SynthBeatsWaves & Programming Hub",
+    "description": "Meet SynthBeatsWaves, XALPHYN’s music community of artists sharing non-copyright tracks, and Programming Hub, the separate developer Discord community."
+  },
+  {
+    "slug": "articles",
+    "src": "articles.html",
+    "title": "Articles by XALPHYN | Music, SBW & Programming Hub",
+    "description": "Explore original articles about XALPHYN, SynthBeatsWaves and Programming Hub, plus a link to XALPHYN on Medium."
+  },
+  {
+    "slug": "articles/digital-identity",
+    "src": "article-identity.html",
+    "title": "The Identity Behind XALPHYN — Music Artist Story",
+    "description": "Discover the history of XALPHYN, the emerging music artist behind SynthBeatsWaves and Programming Hub."
+  },
+  {
+    "slug": "articles/synthbeatswaves",
+    "src": "article-sbw.html",
+    "title": "SynthBeatsWaves History — From Neon Dreams to Rise of Tron",
+    "description": "SynthBeatsWaves is a community of artists founded by XALPHYN to provide non-copyright music tracks for content creators and listeners."
+  },
+  {
+    "slug": "articles/programming-hub",
+    "src": "article-programming-hub.html",
+    "title": "Programming Hub — Community History by XALPHYN",
+    "description": "How Programming Hub started privately on July 28, 2026 and launched as a public Discord community on August 4, 2026."
+  },
+  {
+    "slug": "qa",
+    "src": "qa.html",
+    "title": "XALPHYN Q&A — Artist, Threads, Music & Communities",
+    "description": "Answers about XALPHYN, SynthBeatsWaves, Programming Hub, social platforms and how to contact the artist."
+  },
+  {
+    "slug": "contact",
+    "src": "contact.html",
+    "title": "Contact XALPHYN — Send an Enquiry or Anonymous Message",
+    "description": "Contact XALPHYN through the private enquiry submission form, or send an anonymous message via NGL."
+  },
+  {
+    "slug": "privacy",
+    "src": "privacy.html",
+    "title": "Privacy Policy & External Links — XALPHYN",
+    "description": "How the XALPHYN website handles contact form enquiries, hosting data and third-party links including NGL."
+  },
+  {
+    "slug": "contact/thank-you",
+    "src": "thank-you.html",
+    "title": "Message Received — XALPHYN",
+    "description": "Confirmation page for an enquiry sent through the XALPHYN contact form.",
+    "noindex": true
+  },
+  {
+    "slug": "404",
+    "src": "404.html",
+    "title": "Page Not Found — XALPHYN",
+    "description": "The requested page was not found.",
+    "noindex": true
+  }
+]

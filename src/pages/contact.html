@@ -1,0 +1,18 @@
+<section class="page-title" data-reveal><span class="eyebrow">Contact / XALPHYN</span><h1>Get in <span class="dim">touch.</span></h1><p class="lead">Send an enquiry through the private contact form, or leave an anonymous message through XALPHYN's NGL inbox.</p></section>
+<section class="contact-choice-grid">
+ <article class="card contact-choice contact-form-card" data-reveal>
+  <span class="icon-circle" aria-hidden="true">✉</span><p class="section-kicker">01 / Enquiries and collaborations</p><h2>Send an <span class="dim">enquiry.</span></h2><p>Use this form for music enquiries, collaborations, community questions, or general messages. Share a reply address so XALPHYN can respond privately.</p>
+  <form class="enquiry-form" name="xalphyn-enquiry" method="POST" action="/contact/thank-you/" data-netlify="true" netlify-honeypot="bot-field" data-enquiry-form>
+   <input type="hidden" name="form-name" value="xalphyn-enquiry">
+   <p class="hp-field" aria-hidden="true"><label>Leave this field blank: <input type="text" name="bot-field" autocomplete="off" tabindex="-1"></label></p>
+   <label for="visitor-name">Your name <span class="optional">(optional)</span></label><input id="visitor-name" name="name" autocomplete="name" maxlength="80" placeholder="What should I call you?">
+   <label for="visitor-email">Your email <span class="required">*</span></label><input id="visitor-email" name="email" type="email" autocomplete="email" maxlength="160" required placeholder="you@example.com">
+   <label for="visitor-subject">Subject <span class="required">*</span></label><select id="visitor-subject" name="subject" required><option value="" disabled selected>Choose a topic</option><option value="Music / collaboration">Music / collaboration</option><option value="SynthBeatsWaves">SynthBeatsWaves</option><option value="Programming Hub">Programming Hub</option><option value="General enquiry">General enquiry</option></select>
+   <label for="visitor-message">Message <span class="required">*</span></label><textarea id="visitor-message" name="message" maxlength="2000" minlength="10" rows="6" required placeholder="Write your message here…"></textarea>
+   <button class="btn btn-primary" type="submit">Send enquiry ↗</button><p class="form-feedback" role="status" aria-live="polite" data-form-feedback></p>
+  </form>
+  <p class="micro-note">The form is processed by Netlify after deployment there. Your message and reply email go to the website owner's private Netlify Forms dashboard. The form will not submit from localhost or a Vercel-only deployment.</p>
+ </article>
+ <article class="card card-soft contact-choice" data-reveal><span class="icon-circle" aria-hidden="true">?</span><p class="section-kicker">02 / Anonymous messages</p><h2>Leave a <span class="dim">thought.</span></h2><p>Send a note without giving a name through XALPHYN's separate NGL inbox. NGL handles the submission under its own privacy terms and cannot guarantee total anonymity.</p><div class="btn-row"><a class="btn btn-primary" href="{{NGL_URL}}" target="_blank" rel="noopener noreferrer">Open NGL inbox ↗</a><button class="btn btn-secondary" type="button" data-copy-text="{{NGL_URL}}">Copy NGL link</button></div></article>
+</section>
+<section class="section"><div class="card quiet-cta"><div><p class="section-kicker">Privacy first</p><h2>Messages stay <span class="dim">private.</span></h2><p>Enquiries are not shown publicly. Netlify processes contact form submissions, while anonymous notes go directly through NGL. Read what each option involves before sending.</p></div><a class="btn btn-secondary" href="/privacy/">Privacy information ↗</a></div></section>
