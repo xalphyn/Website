@@ -1,3 +1,3 @@
-# XALPHYN — Official Artist Portfolio
+# XALPHYN — Official Personal Website
 
 The Official Monochrome Personal/Portfolio Website of XALPHYN
